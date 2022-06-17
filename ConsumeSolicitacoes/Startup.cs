@@ -52,9 +52,13 @@ namespace ConsumeSolicitacoes
             app.UseHttpsRedirection();
 
             app.UseRouting();
-            app.UseCors();
 
             app.UseAuthorization();
+
+            app.UseCors(u => u.AllowAnyHeader()
+             .AllowAnyMethod()
+             .AllowAnyOrigin());
+
 
             app.UseEndpoints(endpoints =>
             {
