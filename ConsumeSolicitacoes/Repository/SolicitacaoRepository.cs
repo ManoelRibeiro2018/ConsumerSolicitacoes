@@ -36,7 +36,7 @@ namespace ConsumeSolicitacoes.Repository
 
         public async Task<List<SolicitacaoModel>> GetByLastTwelveMoth()
         {
-            return await _solicitacaoDbContext.SolicitacaoModels.Where(e => e.Month >= DateTime.Now.AddYears(-2)).ToListAsync();
+            return await _solicitacaoDbContext.SolicitacaoModels.Where(e => e.Month >= DateTime.Now.AddYears(-1)).ToListAsync();
         }
 
         public async Task SaveAsync(SolicitacaoModel solicitacaoModel)
