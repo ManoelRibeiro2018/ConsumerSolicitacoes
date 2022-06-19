@@ -11,6 +11,7 @@ namespace ConsumeSolicitacoes.Context
         public DbSet<SolicitacaoModel> SolicitacaoModels { get; set; }
         public DbSet<SolicitacaoViewModel> SolicitacaoViews { get; set; }
         public DbSet<SocilitacaoByYearViewModel> SocilitacaoByYearViewModels { get; set; }
+        public DbSet<SolicitacaoByMonthViewModel> SolicitacaoByMonthViewModels { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());

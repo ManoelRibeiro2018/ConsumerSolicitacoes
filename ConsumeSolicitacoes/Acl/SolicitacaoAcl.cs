@@ -12,7 +12,7 @@ namespace ConsumeSolicitacoes.Acl
         {
             List<SolicitacaoModel> listSolicitacao = new List<SolicitacaoModel>(); 
             HttpClient client = new();
-            var response = await client.GetAsync("http://60ef-35-245-221-211.ngrok.io/");
+            var response = await client.GetAsync("http://8663-35-237-67-217.ngrok.io/");
             var content = await response.Content.ReadAsStringAsync();
 
             var solicitacoes = JsonConvert.DeserializeObject<SolicitacaoModel[]>(content);

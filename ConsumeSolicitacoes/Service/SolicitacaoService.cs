@@ -54,5 +54,10 @@ namespace ConsumeSolicitacoes.Service
         {
             return _solicitacaoRepository.GetByConsultByYear();
         }
+
+        public Task<List<SolicitacaoByMonthViewModel>> GetByConsultMonth()
+        {
+            return _solicitacaoRepository.GetByConsultMonth();
+        }
     }
 }

@@ -56,5 +56,11 @@ namespace ConsumeSolicitacoes.Controllers
             var result = await _solicitacaoService.GetByConsultByYear();
             return Ok(result);
         }
+        [HttpGet("GetByConsultMonth")]
+        public async Task<IActionResult> GetByConsultMonth()
+        {
+            var result = await _solicitacaoService.GetByConsultMonth();
+            return Ok(result);
+        }
     }
 }

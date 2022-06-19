@@ -12,5 +12,6 @@ namespace ConsumeSolicitacoes.Service
         public Task<List<SolicitacaoModel>> GetByLastTwelveMoth();
         public Task<List<SolicitacaoViewModel>> GetBydistrictMoreAffected();
         public Task<List<SocilitacaoByYearViewModel>> GetByConsultByYear();
+        public Task<List<SolicitacaoByMonthViewModel>> GetByConsultMonth();
     }
 }
