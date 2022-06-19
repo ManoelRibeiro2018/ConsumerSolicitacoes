@@ -6394,19 +6394,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Manoel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Área de Trabalho\\Manoel\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\ConsumeSolicitacoes.csproj",
+      "projectUniqueName": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\ConsumeSolicitacoes.csproj",
       "projectName": "ConsumeSolicitacoes",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Área de Trabalho\\Manoel\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\ConsumeSolicitacoes.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Área de Trabalho\\Manoel\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\obj\\",
+      "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\ConsumeSolicitacoes.csproj",
+      "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Manoel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

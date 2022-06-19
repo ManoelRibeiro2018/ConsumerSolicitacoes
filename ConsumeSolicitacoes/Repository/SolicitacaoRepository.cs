@@ -25,12 +25,12 @@ namespace ConsumeSolicitacoes.Repository
 
         public async Task<List<SocilitacaoByYearViewModel>> GetByConsultByYear()
         {
-            return await _solicitacaoDbContext.SocilitacaoByYearViewModels.ToListAsync();
+            return await _solicitacaoDbContext.SocilitacaoByYearViewModels.OrderBy(e => e.Ano).ToListAsync();
         }
 
         public async Task<List<SolicitacaoByMonthViewModel>> GetByConsultMonth()
         {
-            return await _solicitacaoDbContext.SolicitacaoByMonthViewModels.ToListAsync();
+            return await _solicitacaoDbContext.SolicitacaoByMonthViewModels.OrderBy(e => e.Mes).ToListAsync();
         }
 
         public Task<List<SolicitacaoViewModel>> GetBydistrictMoreAffected()
