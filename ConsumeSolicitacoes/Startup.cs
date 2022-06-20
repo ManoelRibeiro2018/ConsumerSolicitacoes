@@ -1,7 +1,8 @@
-using ConsumeSolicitacoes.Acl;
-using ConsumeSolicitacoes.Context;
+using Application.Solicitacoes;
 using ConsumeSolicitacoes.Repository;
 using ConsumeSolicitacoes.Service;
+using Domain.Solicitacoes.Repository;
+using Infrastructure.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;

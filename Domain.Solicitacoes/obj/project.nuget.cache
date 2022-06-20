@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPMAhYmPY0LphQcK2fZESvXdpuKmYT27u+ikdV/A8AS8RvruP6hY+nv1EIlhMmax48onikWTX9/OVCDGsr3heQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Domain.Solicitacoes\\Domain.Solicitacoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manoel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

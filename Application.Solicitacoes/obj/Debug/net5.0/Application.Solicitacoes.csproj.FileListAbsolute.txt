@@ -1,0 +1,15 @@
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\Application.Solicitacoes.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\Application.Solicitacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\Application.Solicitacoes.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\Application.Solicitacoes.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\Application.Solicitacoes.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\bin\Debug\net5.0\Application.Solicitacoes.deps.json
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\bin\Debug\net5.0\Application.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\bin\Debug\net5.0\ref\Application.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\bin\Debug\net5.0\Application.Solicitacoes.pdb
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\bin\Debug\net5.0\Domain.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\bin\Debug\net5.0\Domain.Solicitacoes.pdb
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\Application.Solicitacoes.csproj.CopyComplete
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\Application.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\ref\Application.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Application.Solicitacoes\obj\Debug\net5.0\Application.Solicitacoes.pdb

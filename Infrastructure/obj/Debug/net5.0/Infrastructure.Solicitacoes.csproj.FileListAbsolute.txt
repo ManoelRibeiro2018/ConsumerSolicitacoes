@@ -1,0 +1,17 @@
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\Infrastructure.Solicitacoes.csproj.AssemblyReference.cache
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\Infrastructure.Solicitacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\Infrastructure.Solicitacoes.AssemblyInfoInputs.cache
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\Infrastructure.Solicitacoes.AssemblyInfo.cs
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\Infrastructure.Solicitacoes.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\bin\Debug\net5.0\Infrastructure.Solicitacoes.deps.json
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\bin\Debug\net5.0\Infrastructure.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\bin\Debug\net5.0\Infrastructure.Solicitacoes.pdb
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\bin\Debug\net5.0\Application.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\bin\Debug\net5.0\Domain.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\bin\Debug\net5.0\Application.Solicitacoes.pdb
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\bin\Debug\net5.0\Domain.Solicitacoes.pdb
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\Infrastructure.Solicitacoes.csproj.CopyComplete
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\Infrastructure.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.Solicitacoes.dll
+C:\Users\Manoel\Desktop\ConsumerSolicitacoes\Infrastructure\obj\Debug\net5.0\Infrastructure.Solicitacoes.pdb

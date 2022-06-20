@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\Api.Solicitacoes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Application.Solicitacoes\\Application.Solicitacoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Application.Solicitacoes\\Application.Solicitacoes.csproj",
+        "projectName": "Application.Solicitacoes",
+        "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Application.Solicitacoes\\Application.Solicitacoes.csproj",
+        "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Application.Solicitacoes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manoel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Domain.Solicitacoes\\Domain.Solicitacoes.csproj": {
+                "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Domain.Solicitacoes\\Domain.Solicitacoes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\Api.Solicitacoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\Api.Solicitacoes.csproj",
+        "projectName": "Api.Solicitacoes",
+        "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\Api.Solicitacoes.csproj",
+        "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\ConsumeSolicitacoes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manoel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Application.Solicitacoes\\Application.Solicitacoes.csproj": {
+                "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Application.Solicitacoes\\Application.Solicitacoes.csproj"
+              },
+              "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Infrastructure\\Infrastructure.Solicitacoes.csproj": {
+                "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Infrastructure\\Infrastructure.Solicitacoes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Domain.Solicitacoes\\Domain.Solicitacoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Domain.Solicitacoes\\Domain.Solicitacoes.csproj",
+        "projectName": "Domain.Solicitacoes",
+        "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Domain.Solicitacoes\\Domain.Solicitacoes.csproj",
+        "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Domain.Solicitacoes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manoel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Infrastructure\\Infrastructure.Solicitacoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Infrastructure\\Infrastructure.Solicitacoes.csproj",
+        "projectName": "Infrastructure.Solicitacoes",
+        "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Infrastructure\\Infrastructure.Solicitacoes.csproj",
+        "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manoel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Application.Solicitacoes\\Application.Solicitacoes.csproj": {
+                "projectPath": "C:\\Users\\Manoel\\Desktop\\ConsumerSolicitacoes\\Application.Solicitacoes\\Application.Solicitacoes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

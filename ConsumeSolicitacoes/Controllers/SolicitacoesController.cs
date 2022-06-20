@@ -1,10 +1,6 @@
-﻿using ConsumeSolicitacoes.Model;
-using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Linq;
-using System.IO;
+﻿using Application.Solicitacoes;
 using ConsumeSolicitacoes.Service;
-using ConsumeSolicitacoes.Acl;
+using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
 namespace ConsumeSolicitacoes.Controllers
